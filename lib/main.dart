@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:new_app/screens/insta_ui.dart';
+import 'package:new_app/screens/dice_roller_app.dart';
 
 void main() {
   runApp(
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
     return const MaterialApp(
       title: "Test App",
       debugShowCheckedModeBanner: false,
-      home: InstaUI(),
+      home: DiceRollerApp(),
     );
   }
 }
