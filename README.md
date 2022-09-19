@@ -1,7 +1,11 @@
-# new_ui
+# new_app
 
-A  Instagram_UI Flutter project.
+A dice roller app for Flutter practice.
 
-## Output UI
+## some output samples of the result
+### Result1
 
-![output.PNG](https://github.com/HeyMahAN/insta_ui_flutterpractice/blob/main/assets/images/output.PNG?raw=true)
+![output1.PNG](https://github.com/HeyMahAN/dice_rollerapp_flutterpractice/blob/main/assets/images/output1.PNG?raw=true)
+
+### Result2
+![output2.PNG](https://github.com/HeyMahAN/dice_rollerapp_flutterpractice/blob/main/assets/images/output2.PNG?raw=true)
