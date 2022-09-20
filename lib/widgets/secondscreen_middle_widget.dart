@@ -10,7 +10,7 @@ class SecondUIMiddle extends StatelessWidget {
         borderRadius: BorderRadius.only(topLeft: Radius.circular(20), topRight: Radius.circular(20)),
         color: Colors.white,
       ),
-      margin: const EdgeInsets.only(top: 230,),
+      margin: const EdgeInsets.only(top: 205,),
       padding: const EdgeInsets.all(25),
       child: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
@@ -29,7 +29,7 @@ class SecondUIMiddle extends StatelessWidget {
                       fontSize: 20,
                     ),
                   ),
-                  SizedBox(height: 15,),
+                  SizedBox(height: 8,),
                   Text(
                     "Guerilla & Playstation",
                     style: TextStyle(
@@ -49,7 +49,7 @@ class SecondUIMiddle extends StatelessWidget {
               )
             ],
           ),
-          const SizedBox(height: 35,),
+          const SizedBox(height: 25,),
           const Text(
             "Overview",
             style: TextStyle(
@@ -57,7 +57,7 @@ class SecondUIMiddle extends StatelessWidget {
               fontSize: 16,
             ),
           ),
-          const SizedBox(height: 10,),
+          const SizedBox(height: 8,),
           const Text(
             """Experience Aloy's entire legendary quest to unreveal the mysteries of a world ruled by deadly Machines.""",
             textAlign: TextAlign.justify,
@@ -65,7 +65,7 @@ class SecondUIMiddle extends StatelessWidget {
               fontSize: 14,
             ),
           ),
-          const SizedBox(height: 25,),
+          const SizedBox(height: 16,),
           const Text(
             """An outcast from her tribe, the young hunter fights to uncover her past, discover her destiny, and stop a catastrophic threat to the future.""",
             textAlign: TextAlign.justify,
@@ -73,7 +73,7 @@ class SecondUIMiddle extends StatelessWidget {
               fontSize: 14,
             ),
           ),
-          const SizedBox(height: 20,),
+          const SizedBox(height: 16,),
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
@@ -104,7 +104,7 @@ class SecondUIMiddle extends StatelessWidget {
                           fontSize: 15,
                         ),
                       ),
-                      SizedBox(height: 10,),
+                      SizedBox(height: 8,),
                       Text(
                         "Available",
                         style: TextStyle(
@@ -141,7 +141,7 @@ class SecondUIMiddle extends StatelessWidget {
               ),
             ],
           ),
-          const SizedBox(height: 20,),
+          const SizedBox(height: 16,),
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: [
@@ -172,7 +172,7 @@ class SecondUIMiddle extends StatelessWidget {
                           fontSize: 15,
                         ),
                       ),
-                      SizedBox(height: 10,),
+                      SizedBox(height: 8,),
                       Text(
                         "Available",
                         style: TextStyle(
